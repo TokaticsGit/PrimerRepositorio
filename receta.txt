@@ -2,4 +2,4 @@ Receta de pollo con almendras.
 Cortamos el pollo.  Lo limpiamos de grasa. 
 Corta el pollo a tiras y colócalas en un bol. Mézclalas con nuestro una cucharada del Sazonador Pollo. Deja reposar durante al menos 10 minutos para que se impregnen bien los sabores. 
 Calienta el aceite de oliva en una sartén grande a fuego medio-alto. Añade el pollo y cocina hasta que esté dorado y cocido por dentro, aproximadamente 5-7 minutos. Retira el pollo de la sartén y resérvalo. 
-cambio para la rama main
+Cambio final para el merge
