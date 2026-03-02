@@ -1,0 +1,9 @@
+# Ignorar un archivo concreto
+passwords.txt
+
+# Ignorar todos los archivos con una extensión
+*.tmp
+*.log
+
+# Ignorar una carpeta entera
+.vscode/
